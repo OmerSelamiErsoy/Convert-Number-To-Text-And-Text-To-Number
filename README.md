@@ -1,4 +1,4 @@
 # Convert-Number-To-Text-And-Text-To-Number
 
-Rakamsal para ifadeleri yazı karşılığına, yazı karşılığını rakama dönüştüren uygulama.
+Para ifadeleri için rakamı yazı karşılığına, yazı karşılığını rakama dönüştüren uygulama.
 
