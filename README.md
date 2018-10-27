@@ -1,4 +1,4 @@
 # Convert-Number-To-Text-And-Text-To-Number
 
-Para ifadeleri için rakamı yazı karşılığına, yazı karşılığını rakama dönüştüren uygulama.
+Dolar ve Türk Lirasına ait rakamı değerlerini yazı karşılığına, yazı karşılığını rakam değerlerine dönüştüren uygulama.
 
