@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrndYol", "TrndYol\TrndYol.csproj", "{5B15F2F5-DD0D-407B-BFD8-371415F88C36}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodilityProject", "CodilityProject\CodilityProject.csproj", "{5EE088AB-6CA6-433C-B0F5-05353E01F788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPro", "TestPro\TestPro.csproj", "{863A86A8-6388-405C-AD66-6ABDA390C84C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5B15F2F5-DD0D-407B-BFD8-371415F88C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5B15F2F5-DD0D-407B-BFD8-371415F88C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5B15F2F5-DD0D-407B-BFD8-371415F88C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5B15F2F5-DD0D-407B-BFD8-371415F88C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE088AB-6CA6-433C-B0F5-05353E01F788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE088AB-6CA6-433C-B0F5-05353E01F788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE088AB-6CA6-433C-B0F5-05353E01F788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE088AB-6CA6-433C-B0F5-05353E01F788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863A86A8-6388-405C-AD66-6ABDA390C84C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863A86A8-6388-405C-AD66-6ABDA390C84C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863A86A8-6388-405C-AD66-6ABDA390C84C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863A86A8-6388-405C-AD66-6ABDA390C84C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
